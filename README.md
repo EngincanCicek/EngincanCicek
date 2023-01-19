@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PlanIdea](https://github.com/EngincanCicek/PlanIdea-Public)
 
-- 🌱 I’m currently learning **Jetpack Componse, Kotlin Coroutines, Asynchronous Flow**
+- 🌱 I’m currently learning **Jetpack Componse, Kotlin Coroutines, Asynchronous Flow, MVI**
 
 - 💬 Ask me about **Java, Kotlin, Android**
 
