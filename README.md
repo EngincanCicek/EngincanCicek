@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engincancicek" alt="engincancicek" /></a> </p>
 
-- My portfolio site [engincancicek.com] (https://engincancicek.com)
+- My portfolio site [engincancicek.com](https://engincancicek.com)
 
 - 🔭 I’m currently working on [PlanIdea](https://github.com/EngincanCicek/PlanIdea-Public)
 
