@@ -7,11 +7,11 @@
 
 - My portfolio site [engincancicek.com](https://engincancicek.com)
 
-- 🔭 I’m currently working on [PlanIdea](https://github.com/EngincanCicek/PlanIdea-Public)
+- 🔭 I’m currently working on [Statecraft: Corrupted Democracy](https://store.steampowered.com/app/2838620/Statecraft_Corrupted_Democracy/)
 
-- 🌱 I’m currently learning **Jetpack Componse, Kotlin Coroutines, Asynchronous Flow, MVI**
+- 🌱 I’m currently learning **Jetpack Compose, Kotlin Coroutines, Asynchronous Flow, MVI, and Unity Game Development**
 
-- 💬 Ask me about **Java, Kotlin, Android**
+- 💬 Ask me about **Java, Kotlin, Android, Flutter, Unity**
 
 - 📫 How to reach me **engincancicektr@gmail.com**
 
